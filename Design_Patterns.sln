@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton", "Singleton\Sing
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adapter", "Adapter\Adapter.csproj", "{6F111A61-B918-4213-850A-798E2C4E2602}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Composite", "Composite\Composite.csproj", "{EA02A17A-1DD2-4315-AEC9-35621A8A5CE3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{6F111A61-B918-4213-850A-798E2C4E2602}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6F111A61-B918-4213-850A-798E2C4E2602}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6F111A61-B918-4213-850A-798E2C4E2602}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA02A17A-1DD2-4315-AEC9-35621A8A5CE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA02A17A-1DD2-4315-AEC9-35621A8A5CE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA02A17A-1DD2-4315-AEC9-35621A8A5CE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA02A17A-1DD2-4315-AEC9-35621A8A5CE3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
