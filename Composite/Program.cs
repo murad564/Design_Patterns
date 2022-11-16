@@ -97,8 +97,3 @@ class Program
 
 
 
-// C:\
-// C:\Program Files
-// C:\Program Files\Adobe
-// C:\Program Files\Microsoft
-// C:\Users
